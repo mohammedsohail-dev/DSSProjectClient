@@ -11,7 +11,7 @@ import java.util.Comparator;
 
 public class serverstats {
     public static void main(String[] args) {
-        String csvFile = "data for 10000 posts.csv";
+        String csvFile = "data.csv";
         String line = "";
         String csvSeparator = ",";
         float sum=0;
